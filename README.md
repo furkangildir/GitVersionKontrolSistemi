@@ -1,6 +1,6 @@
 # Deneme Git Version Kontrol
 
 ## Alt Bilgi
-blablabla
+Git Versiyok Kontrol Sistemi ile ilgili Çalışmalarım.
 
 [Github Hesabım](http://www.github.com/furkangr)
